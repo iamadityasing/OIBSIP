@@ -1,0 +1,22 @@
+body {
+    background-image:
+        linear-gradient(rgba(24, 25, 32, 0.6),
+            rgba(19, 22, 52, 0.6)),
+        url('../images/img.jpg');
+}
+
+.title-head {
+    color: rgb(238, 115, 115);
+}
+
+.desc-head {
+    color: rgb(244, 103, 103);
+}
+
+.del-head {
+    color: rgb(230, 149, 149);
+}
+
+hr {
+    border-top: 1px solid rgb(215, 25, 25);
+}
